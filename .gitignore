@@ -1,3 +1,4 @@
 #Ignore all the files entered here
 
-.txt
+*.txt
+*.gitignore
